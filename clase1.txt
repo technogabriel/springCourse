@@ -1,0 +1,23 @@
+Spring Framework:
+*Es un entorno de trabajo compuesto por reglas y herramientas que facilitan el desarrollo de aplicaciones.
+*Es la alternativa al desarrollo de aplicaciones JEE
+**Dato - Es el mas utilizado para crear aplicaciones Java.
+
+*Ventajas:
+Injeccion de dependencias /Abstraccion de acceso a datos / Manejo de trx / Seguridad / Facil de uso / Integracion con otros frameworks / Escalabilidad y flexibilidad
+
+*Modulos:
+Core / Web / Data / AOP(programacion orientada a objeto)
+Spring Core / Spring MVC / Spring Security /Spring Boot / Spring AOP / Spring Data
+
+*Inversion de Control:
+IoC 
+
+*Injeccion de depdencias:
+Es un patro de diseño en el cual un objeto recibe instancias de las clases que depende(sus deps) en lugar de crearlas o buscarlas por si mismo.
+
+*Bean:
+Un bean es un objeto que es manejado por el contenedor de spring, el cual se encarga de crear, inicializar....
+
+*Singleton:
+Existe una sola instancia del objeto. Cada vez que se llama a new nos devuelve la misma instancia.
